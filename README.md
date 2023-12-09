@@ -1,2 +1,2 @@
 # hello-word
-Hello World para dar os primeiros passos com GitHub.
+Usando esse arquivo para aprender sobre o GiHub.
